@@ -1,0 +1,7 @@
+.idea
+*.ipynb
+*.env
+logs
+.DS_Store
+dags/__pycache__
+dags/helper/__pycache__
